@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @echung0018
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: go/jo
-- ⚡ Fun fact: Mahoraga is the most uncontrollable shikigami in the history of the Ten Shadows Technique. It has never been tamed or commanded like other familiars in the history of the entire Zenin Clan. However, users of the Ten Shadows Technique can summon it via an exorcism ritual in an attempt to exorcise it at any time.
-
-<!---
-echung0018/echung0018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+THE GOAT
